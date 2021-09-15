@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "oussama@mail.com",
+      "password": "$2a$10$1C3x0.hznGx8rHkVkHGuAOClauNRCJn4hK7AFrRJFCVFlHXBAVBse",
+      "id": 1
+    }
+  ],
   "profile": {
     "id": "1",
     "firstName": "Ahmed",
