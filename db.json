@@ -1,0 +1,121 @@
+{
+  "profile": {
+    "id": "1",
+    "firstName": "Ahmed",
+    "lastName": "Ali",
+    "email": "ahmed.ali@email.com",
+    "phoneNumber": "+212666778899",
+    "height": 62.5,
+    "isActive": true
+  },
+  "clients": [
+    {
+      "id": "1",
+      "firstName": "Ahmed",
+      "lastName": "Ali",
+      "email": "ahmed.ali@email.com",
+      "phoneNumber": "+212666778899",
+      "height": 72.5,
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "firstName": "Salim",
+      "lastName": "Karam",
+      "email": "salim.karam@email.com",
+      "phoneNumber": "+212666778898",
+      "height": 65,
+      "isActive": false
+    },
+    {
+      "id": "3",
+      "firstName": "Soukaina",
+      "lastName": "Latif",
+      "email": "soukaina.latif@email.com",
+      "phoneNumber": "+212666778897",
+      "height": 69.3,
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "firstName": "Hamid",
+      "lastName": "Fatmi",
+      "email": "hamid.fatmi@email.com",
+      "phoneNumber": "+212666778896",
+      "height": 71,
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "firstName": "Khaoula",
+      "lastName": "Belkacem",
+      "email": "khaoula.belkacem@email.com",
+      "phoneNumber": "666778895",
+      "height": "73.40",
+      "isActive": false
+    },
+    {
+      "id": "6",
+      "firstName": "Kamal",
+      "lastName": "Hajou",
+      "email": "kamal.hajou@email.com",
+      "phoneNumber": "666778894",
+      "height": "72.40",
+      "isActive": true
+    },
+    {
+      "id": "7",
+      "firstName": "Hajar",
+      "lastName": "Ali",
+      "email": "hajar.ali@email.com",
+      "phoneNumber": "666778893",
+      "height": "69.10",
+      "isActive": false
+    },
+    {
+      "id": "8",
+      "firstName": "Mustapha",
+      "lastName": "Lemaalam",
+      "email": "mustapha.lemaalam@email.com",
+      "phoneNumber": "666778892",
+      "height": "66.60",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "firstName": "Sara",
+      "lastName": "Zaki",
+      "email": "sara.zaki@email.com",
+      "phoneNumber": "666778891",
+      "height": "69.90",
+      "isActive": true
+    },
+    {
+      "id": "10",
+      "firstName": "Mustapha",
+      "lastName": "Afifi",
+      "email": "jilal.oussama@gmail.com",
+      "phoneNumber": "434567",
+      "height": 70.2,
+      "isActive": true
+    },
+    {
+      "id": "11",
+      "firstName": "Mustapha",
+      "lastName": "Jilal",
+      "email": "oussama@jilal.net",
+      "phoneNumber": "46465645",
+      "height": 70.2,
+      "isActive": true
+    },
+    {
+      "id": "12",
+      "firstName": "Mustapha",
+      "lastName": "Afifi",
+      "email": "jilal.oussama@gmail.com",
+      "phoneNumber": "45345",
+      "height": 70.2,
+      "isActive": true
+    }
+  ]
+}
